@@ -1,2 +1,5 @@
 # SwiftQuine
-A Swift Quine
+
+This outputs itself. Yeah, that's it.
+
+Am I metaprogramming already, dad?
